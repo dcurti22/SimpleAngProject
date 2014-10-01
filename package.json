@@ -1,0 +1,14 @@
+{
+"name" : "Example_01",
+"version" : "0.0.1",
+"author" : "rbmjr <rick.morrow@montgomerycollege.edu>",
+"description" : "Static Content on Port 8081",
+"dependencies" : {
+"express" : "^3.5.1",
+"http-static": "~0.0.4"
+},
+"license" : "GPL",
+"engines" : {
+"node" : ">=0.10"
+}
+}
